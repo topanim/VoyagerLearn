@@ -70,7 +70,7 @@ class HomeScreen : Screen {
     }
 }
 
-class ListScreen : Screen {
+class ListScreenOld : Screen {
 
     @Composable
     override fun Content() {
